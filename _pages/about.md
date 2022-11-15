@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+---
 
 I'm undergraduate student at University of Illinois Urbana-Champaign studying statistics and computer science. I won the Dean’s List Honorary designation for every semester since freshman. 
 
@@ -16,6 +17,8 @@ I'm a research assistant at [Data Mining Group](http://dm1.cs.uiuc.edu/) supervi
 
 
 # Publications
+
+---
 
 Unless otherwise specified, the paper is accepted/submitted as a research track long/regular paper. “ ∗ ” indicates equal contribution.
 
@@ -37,6 +40,8 @@ Unless otherwise specified, the paper is accepted/submitted as a research track 
 
 
 # Research project
+
+---
 
 **Long-range Context Hierarchical Seed-Guided Topic Discovery**
 
@@ -69,6 +74,8 @@ Unless otherwise specified, the paper is accepted/submitted as a research track 
 
 # Professional experience
 
+---
+
 **Apple Intern**
 
 - Software Engineer Intern, supervised by Brian Smith (May 2022 - Aug. 2022)
@@ -87,6 +94,8 @@ Unless otherwise specified, the paper is accepted/submitted as a research track 
 
 # Teaching
 
+---
+
 - CS 222 Software Design Lab course assistant   (Aug. 2022 - Present)
 - CS 225 Data Structure course assistant and project mentor            (Aug. 2022 - Present)
 - CS 374 Intro to Algorithm \& Model of Computation course assistant     (Aug. 2022 - Present)
@@ -97,6 +106,8 @@ Unless otherwise specified, the paper is accepted/submitted as a research track 
 
 
 # Award
+
+---
 
 - University of Illinois Urbana-Champaign CRA Undergraduate Research Award          (Oct. 2022)
 - University of Illinois Urbana-Champaign Statistics Competition Second Place            (Sep. 2021)
