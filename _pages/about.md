@@ -87,17 +87,17 @@ Unless otherwise specified, the paper is accepted/submitted as a research track 
 
 # Teaching
 
-- CS 222 Software Design Lab course assistant and grader 								            Aug. 2022 - Present
-- CS 225 Data Structure course assistant, lab moderator, and project mentor            Aug. 2022 - Present
-- CS 374 Intro to Algorithm \& Model of Computation course assistant and grader     Aug. 2022 - Present
-- CS 126 Software Design Studio course assistant, course developer, and grader       Jan. 2022 - May 2022
-- CS 128 Introduction to Computer Science II course developer                                      Jan. 2021 - May 2021
-- CS 125 Introduction to Computer Science course assistant                                            Jan. 2020 - Dec. 2020
+- CS 222 Software Design Lab course assistant   (Aug. 2022 - Present)
+- CS 225 Data Structure course assistant and project mentor            (Aug. 2022 - Present)
+- CS 374 Intro to Algorithm \& Model of Computation course assistant     (Aug. 2022 - Present)
+- CS 126 Software Design Studio course assistant      (Jan. 2022 - May 2022)
+- CS 128 Introduction to Computer Science II course developer                                     ( Jan. 2021 - May 2021)
+- CS 125 Introduction to Computer Science course assistant                                            (Jan. 2020 - Dec. 2020)
 
 
 
 # Award
 
-- University of Illinois Urbana-Champaign CRA Undergraduate Research Award          Oct. 2022
-- University of Illinois Urbana-Champaign Statistics Competition Second Place            Sep. 2021
-- Software Design Studio course algorithm competition First Place                                 Mar. 2020
+- University of Illinois Urbana-Champaign CRA Undergraduate Research Award          (Oct. 2022)
+- University of Illinois Urbana-Champaign Statistics Competition Second Place            (Sep. 2021)
+- Software Design Studio course algorithm competition First Place                                 (Mar. 2020)
