@@ -10,10 +10,7 @@ redirect_from:
 
 ---
 
-I'm undergraduate student at University of Illinois Urbana-Champaign studying statistics and computer science. I won the Dean’s List Honorary designation for every semester since freshman. 
-
-I'm a research assistant at [Data Mining Group](http://dm1.cs.uiuc.edu/) supervised by professor [Jiawei Han](http://hanj.cs.illinois.edu/). My primary research interests involve data mining, more specifically topic discovery and entity set expansion in the natural language processing field. Natural Language Processing arises in many contexts to facilitate tasks of analyzing large amounts of documents and understanding the context of natural languages. Besides, I’m also interested in computer vision and robotics.
-
+I am a Master's student in Computer Science at Stanford University, where I focus on developing human-centered AI systems that empower individuals in both everyday tasks and complex knowledge work. With a passion for bridging artificial intelligence and human interaction, my research aims to enhance learning, decision-making, and productivity by creating systems that collaborate seamlessly with users.
 
 
 # Publications
@@ -22,83 +19,119 @@ I'm a research assistant at [Data Mining Group](http://dm1.cs.uiuc.edu/) supervi
 
 Unless otherwise specified, the paper is accepted/submitted as a research track long/regular paper. “ ∗ ” indicates equal contribution.
 
-- **Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts** 
-  - Yu Zhang$^∗$, Yunyi Zhang$^∗$, **Yucheng Jiang**, Martin Michalski, Yu Deng, Lucian Popa, ChengXiang Zhai, Jiawei Han
-  - (Accepted by) IEEE BigData 2022 Workshop on Knowledge Discovery and Data Mining in IT Operations (**BigData-IT**)(short)
+- **Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration**
+  - Yijia Shao, Vinay Samuel$^∗$, Yucheng Jiang$^∗$, John Yang, Di Yang
+  - [[Pre-print](https://arxiv.org/abs/2412.15701)]
+
+- **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**  
+  - Yucheng Jiang$^∗$, Yijia Shao$^∗$, Dekun Ma, Sina Semnani, Monica S. Lam  
+  - Accepted by 2024 Annual Conference of the Empirical Methods in Natural Language Processing  (**EMNLP 2024 main**)
+  - [[Paper](https://aclanthology.org/2024.emnlp-main.554/)] [[Code](https://github.com/stanford-oval/storm)] [[Website](http://storm.genie.stanford.edu)]
+
+
+- **Assisting in Writing Wikipedia-like Articles from Scratch with Large Language Models**  
+  - Yijia Shao, Yucheng Jiang, Theodore A. Kanell, Peter Xu, Omar Khattab, Monica S. Lam  
+  - Accepted by 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2024 main**)
+  - [[Paper](https://aclanthology.org/2024.naacl-long.347/)] [[Code](https://github.com/stanford-oval/storm)] [[Website](http://storm.genie.stanford.edu)]
+
 
 - **Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts**
   - Yu Zhang$^∗$, Yunyi Zhang$^∗$, Martin Michalski$^∗$, **Yucheng Jiang$^∗$**, Yu Meng$^∗$, Jiawei Han
   - (Accpted by) The 16th ACM International Conference on Web Search and Data Mining (**WSDM 2023**)
+  - [[Paper](https://dl.acm.org/doi/10.1145/3539597.3570475)] [[Code](https://github.com/yzhan238/SeedTopicMine)]
 
-- **An Analytic Comparison of Student-Scheduled and Instructor-Scheduled Collaborative Learning in Online Contexts** [[Download](https://peer.asee.org/an-analytic-comparison-of-student-scheduled-and-instructor-scheduled-collaborative-learning-in-online-contexts.pdf)]
+
+- **Entity Set Co-Expansion in StackOverflow** 
+  - Yu Zhang$^∗$, Yunyi Zhang$^∗$, **Yucheng Jiang**, Martin Michalski, Yu Deng, Lucian Popa, ChengXiang Zhai, Jiawei Han
+  - (Accepted by) IEEE BigData 2022 Workshop on Knowledge Discovery and Data Mining in IT Operations (**BigData-IT**)(short)
+  - [[Paper](https://arxiv.org/abs/2212.02271)]
+
+- **An Analytic Comparison of Student-Scheduled and Instructor-Scheduled Collaborative Learning in Online Contexts**
   - Geoffrey Herman$^∗$ , **Yucheng Jiang**$^∗$ , Yueqi Jiang, Seth Poulsen, Matthew West, Mariana Silva
   - (Accpted by) The 2022 Conference of the American Soceity for Engineering Education (**ASEE 2022**)
-- **Seed-Guided Hierarchical Topic Discovery by Exploring Long-Range Contexts**
-  - **Yucheng Jiang**$^∗$, Yu Zhang$^∗$, Yunyi Zhang$^∗$, Jiawei Han
-  - (Submitted to) The 32nd International World Wide Web Conference (**WWW 2023**)
-
+  - [[Paper](https://peer.asee.org/an-analytic-comparison-of-student-scheduled-and-instructor-scheduled-collaborative-learning-in-online-contexts.pdf)]
 
 
 # Research project
 
 ---
 
-**Long-range Context Hierarchical Seed-Guided Topic Discovery**
+**Engaged human learning through collaborative discourse with LLM agents**  
+- Stanford Open Virtual Assistant Lab (2024 - Present)  
+- Directed the development of a human-AI collartion project aimed at facilitating human-centered natural language
+processing (NLP) and leveraging LLMs for enhanced human learning
+- Contributed to the project’s global reach, serving over 200,000 users across 175 countries, with engagement from five
+school districts in the U.S. and U.K., highlighting its educational and societal impact
+- Designed and implemented a full-stack web application to enable and evaluate complex information-seeking workflows,
+driving insights into human-AI interaction
 
-- Research assistant, Data Mining Group, supervised by Prof. Jiawei Han (Aug. 2022 - Present)
-- Lead a team of three students extend topic mining framework into hierarchy structure to facilitate hierarchical taxonomy construction and document classification
-- Designed framework to leverage benefit of pre-train language model and retrieve topic implicative document segments to perform topic discovery in a broader context
+**Writing wikipedia by automatic knowledge curation with LLMs**  
+- Stanford Open Virtual Assistant Lab (2023 - Present)  
+- Conceptualized and designed a cutting-edge pipeline for generating extensive Wikipedia articles autonomously, without
+relying on pre-existing outlines or resources
+- Achieved over 13k stars on GitHub for innovative project contributions and generated over 300,000 articles in the wild
+- Led the development of an LLM-driven automatic evaluation framework to systematically assess and enhance the quality
+of generated articles
+
+**Multi-modal depression and anxiety detection during pre-visit rooming**  
+- Stanford Partnership in AI-Assisted Care (2023 - 2024)  
+- Led a team of four students in conducting critical experiments, utilizing cross-attention contrastive learning methods to
+analyze patient data for mental health indicators
+- Engaged in emergency room shadowing at the Stanford Hospital Marc and Laura Andreessen Adult Emergency
+Department to identify practical applications for AI in enhancing the emergency room workflow and patient care
+- Implemented a multi-modal approach, integrating data from various sources such as audio, visual, and textual patient
+information to improve detection accuracy
+
+**Long-range Context Hierarchical Seed-Guided Topic Discovery**
+- UIUC Data Mining Group (2022 - 2023)
+- Lead a team of three students extend topic mining framework into hierarchy structure to facilitate hierarchical taxonomy
+construction and document classification
+- Designed framework to leverage benefit of pre-trained language model and retrieve topic implicative document segments to
+perform topic discovery in a broader context
+- Achieved 8% accuracy improvement compared to all state-of-art baseline models
+
 
 **Entity Set Co-Expansion in StackOverflow**
-
-- Research assistant, Data Mining Group, supervised by Prof. Jiawei Han (Aug. 2022 - Present)
-- Design entity set expansion model to simultaneously expand multiple types of seed by using mutual exclusivity among entity sets to determine expansion boundary
-- Leverage generic natural language knowledge from pre-train language model to facilitate learning seed representation based on themselves and their context simultaneously
+- UIUC Data Mining Group (2022 - 2023)
+- Design an entity set expansion model to simultaneously expand multiple types of seed by using mutual exclusivity among
+entity sets to determine expansion boundary
+- Leverage generic natural language knowledge from pre-train language model to facilitate learning seed representation based
+on themselves and their context simultaneously
 
 **Seed-Guided Topic Mining**
-
-- Research assistant, Data Mining Group, supervised by Prof. Jiawei Han (Nov. 2021 - Aug. 2022)
-- Designed iterative topic mining framework with text embedding and pretrain language model based representations
+- UIUC Data Mining Group (2021 - 2022)
+- Designed an iterative topic mining framework with text embedding and pre-trained language model based representations
 - Improved weakly hierarchical multi-label text classification model to test on 100 million conference papers
 - Achieved 13% accuracy improvement compared to baseline models
-
-**POGIL Groupwork Analytics**
-
-- Research assistant, Supervised by Prof. Geoffrey Herman, Prof. Mariana Silva (Dec. 2020 - May 2022)
-- Retrieved and integrated over 2T online learning platform data through API and web crawling
-- Established SQL database and data storage schema for research team
-- Designed behavioral pattern mining model to extract learning patterns from click stream log activity data from an online open learning platform
-- Performed quasi-experimental study on collaboration efficiency, quality, and equality using Multi Level Modeling
-
-
 
 # Professional experience
 
 ---
 
-**Apple Intern**
+**Software Development Engineer, Apple**  
+San Diego, CA (2023)  
+- Ensured Apple’s compliance with regulatory standards for accuracy and availability, contributing to the expansion of
+location services new markets as they open
+- Led the design and maintenance of key infrastructure for advanced location technologies, incorporating novel systems for
+localization using diverse information sources
+- Implemented and refined testing and support infrastructure for WiFi and cellular positioning systems, boosting system
+reliability
+- Deployed large-scale dashboards and monitoring of performance metrics
 
-- Software Engineer Intern, supervised by Brian Smith (May 2022 - Aug. 2022)
-- Constructed software to support data analysis for the wifi positioning system and cellular positioning system
+**Software Engineer Intern, Apple**  
+San Diego, CA (2022)  
+- Constructed software to support data analysis for the wifi positioning system and cellular positioning system.  
 - Proposed and implemented new algorithms for localization with wifi and cellular signals, improve accuracy by over 50%
 - Coded testing and infrastructure to support wifi and cellular positioning systems
-
-**Code Review Moderator**
-
-- Software Design Studio code review moderator, supervised by Prof. Michael Woodley (Dec. 2021 - Present)
-- Organized weekly code review session with 22 junior students and gave feedback on algorithm analysis, code style, and OOP design strategy
-- Built course infrastructure and maintained algorithm to assign more than 450 students to over 120 code review sessions based on students’ time availability and moderators’ skill set
-- Detected plagiarism in weekly machine project submissions based on historical submission pool
-
 
 
 # Teaching
 
 ---
 
-- CS 222 Software Design Lab course assistant   (Aug. 2022 - Present)
-- CS 225 Data Structure course assistant and project mentor            (Aug. 2022 - Present)
-- CS 374 Intro to Algorithm \& Model of Computation course assistant     (Aug. 2022 - Present)
+- CS 222 Software Design Lab course assistant   (Aug. 2022 - Dec. 2022)
+- CS 225 Data Structure course assistant and project mentor            (Aug. 2022 - Dec. 2022)
+- CS 374 Intro to Algorithm \& Model of Computation course assistant     (Aug. 2022 - Dec. 2022)
 - CS 126 Software Design Studio course assistant      (Jan. 2022 - May 2022)
 - CS 128 Introduction to Computer Science II course developer                                     ( Jan. 2021 - May 2021)
 - CS 125 Introduction to Computer Science course assistant                                            (Jan. 2020 - Dec. 2020)
