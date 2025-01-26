@@ -20,7 +20,7 @@ I am a Master's student in Computer Science at Stanford University, where I focu
 Unless otherwise specified, the paper is accepted/submitted as a research track long/regular paper. “ ∗ ” indicates equal contribution.
 
 - **Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration**
-  - Yijia Shao, Vinay Samuel$^∗$, Yucheng Jiang$^∗$, John Yang, Di Yang
+  - Yijia Shao, Vinay Samuel$^∗$, Yucheng Jiang$^∗$, John Yang, Diyi Yang
   - [[Pre-print](https://arxiv.org/abs/2412.15701)]
 
 - **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**  
